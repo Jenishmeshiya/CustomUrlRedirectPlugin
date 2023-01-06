@@ -4,7 +4,7 @@
  * See COPYING.txt for license details.
  * 
  * @package  Czargroup_CustomUrlRedirectPlugin
- * @author   
+ * @author   mj king <mr.jenishpatel786@gmail.com> 
  */
 namespace Czargroup\CustomUrlRedirectPlugin\Plugin;
 
